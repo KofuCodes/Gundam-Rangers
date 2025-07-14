@@ -22,4 +22,4 @@ Silver Ranger – Nebula Astray Mirage
 Esp-32 devkit V1 X 1
 RFID-Rc522 X 1
 BreadBoard X 1
-LED Bar graph X 2
+RGB micro LED X 1

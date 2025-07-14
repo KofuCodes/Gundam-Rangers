@@ -23,3 +23,6 @@ Esp-32 devkit V1 X 1
 RFID-Rc522 X 1
 BreadBoard X 1
 RGB micro LED X 1
+
+# DEMO
+https://youtube.com/shorts/w1XKAc6peXA?si=Ghvs6GRM2QZVGr1c

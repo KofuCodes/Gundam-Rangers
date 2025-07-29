@@ -1,6 +1,9 @@
 # Gundam Ranger Morpher
 Gundam Ranger Morpher is a combination of two famous shows: Gundam and Power Rangers. Our project focuses on a Gundam themed Power Ranger morpher. It revolves around the wireless capability of RFID technology, which allows it to detect a chip from short distances. We created a handheld morpher that activates and lights up as soon as a card is inserted. As mentioned before, our project is themed after Gundam, so the morpher features wings inspired by the iconic designs of the Gundam robots.
 
+# DEMO
+https://youtube.com/shorts/w1XKAc6peXA?si=Ghvs6GRM2QZVGr1c
+
 # Photos
 ![IMG_5147 1](https://github.com/user-attachments/assets/3223b8c5-8a1a-4b4a-ba33-4bf12dcae651)
 ![IMG_5153 1](https://github.com/user-attachments/assets/9f2644a1-be1f-4f6b-80e3-1ac5e2892d46)
@@ -24,5 +27,3 @@ RFID-Rc522 X 1
 BreadBoard X 1
 RGB micro LED X 1
 
-# DEMO
-https://youtube.com/shorts/w1XKAc6peXA?si=Ghvs6GRM2QZVGr1c

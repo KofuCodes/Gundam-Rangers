@@ -22,8 +22,8 @@ Silver Ranger – Nebula Astray Mirage
 ![DSCN3757 1](https://github.com/user-attachments/assets/922fd50a-aa26-47cb-ac30-d4d41c9a7774)
 
 # BOM
-Esp-32 devkit V1 X 1
-RFID-Rc522 X 1
-BreadBoard X 1
-RGB micro LED X 1
+Esp-32 devkit V1 X 1 <br/>
+RFID-Rc522 X 1 <br/>
+BreadBoard X 1 <br/>
+RGB micro LED X 1 <br/>
 
